@@ -1,0 +1,11 @@
+#searchByCar{
+    display: block;
+}
+
+#searchByPN{
+    display: none;
+}
+
+#searchByFreeText{
+    display: none;
+}
